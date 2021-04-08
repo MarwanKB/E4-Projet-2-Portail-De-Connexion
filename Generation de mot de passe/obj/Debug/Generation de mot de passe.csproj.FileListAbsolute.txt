@@ -1,0 +1,15 @@
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\bin\Debug\Generation de mot de passe.exe.config
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\bin\Debug\Generation de mot de passe.exe
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\bin\Debug\Generation de mot de passe.pdb
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation de mot de passe.csprojAssemblyReference.cache
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation_de_mot_de_passe.Accueil.resources
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation_de_mot_de_passe.Properties.Resources.resources
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation de mot de passe.csproj.GenerateResource.cache
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation de mot de passe.csproj.CoreCompileInputs.cache
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation de mot de passe.exe
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation de mot de passe.pdb
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation_de_mot_de_passe.connexion.resources
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\bin\Debug\MySql.Data.dll
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\bin\Debug\MySql.Data.xml
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation de mot de passe.csproj.CopyComplete
+C:\Users\mboubchir\source\repos\Generation de mot de passe\Generation de mot de passe\obj\Debug\Generation_de_mot_de_passe.inscription.resources
